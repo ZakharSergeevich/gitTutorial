@@ -1,2 +1,1 @@
-# gitTutorial
-first project
+<p>Наш C++ проект</p>
