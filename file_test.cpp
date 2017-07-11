@@ -26,5 +26,6 @@ int main(void)
 {
     int i = func();             // какой-то код
                                 // new dev in master
+    int j = new_func();         // продолжение работы в мастер
     return 0;
 }
