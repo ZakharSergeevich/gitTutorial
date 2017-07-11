@@ -18,5 +18,6 @@ int func()                      // Идея для новой ветки (тес
 int main(void)
 {
     int i = func();             // какой-то код
+                                // new dev in master
     return 0;
 }
