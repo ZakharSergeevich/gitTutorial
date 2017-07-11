@@ -1,7 +1,7 @@
 //
 //  Создан файл C++ .. тест
 //
-//
+//  new line
 
 #include <iostream>
 
