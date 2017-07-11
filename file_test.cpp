@@ -2,6 +2,7 @@
 //  Создан файл C++ .. тест
 //
 //  new line
+//  second line
 
 #include <iostream>
 
