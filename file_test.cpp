@@ -8,6 +8,11 @@
 
 using namespace std;
 
+int func()                      // Идея для новой ветки (тест)
+{
+    return 10;
+}
+
 int main(void)
 {
     return 0;
