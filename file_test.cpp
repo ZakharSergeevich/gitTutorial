@@ -24,7 +24,7 @@ int new_func()                  // Идея для новой ветки 2 (те
 
 int main(void)
 {
-    int i = func();             // какой-то код
+    int i = function_S2();      // какой-то код (редактирую функцию способом 2)
                                 // new dev in master
     int j = new_func();         // продолжение работы в мастер
     return 0;
