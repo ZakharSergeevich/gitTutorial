@@ -34,5 +34,7 @@ int main(void)
     int i = function_S2();      // какой-то код (редактирую функцию способом 2)
                                 // new dev in master
     int j = new_func();         // продолжение работы в мастер
+
+    int y = new_func_3();       // использую функцию 3
     return 0;
 }
