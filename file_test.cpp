@@ -8,7 +8,7 @@
 
 using namespace std;
 
-int func()                      // Идея для новой ветки (тест)
+int function_S1()               // Идея для новой ветки (тест)
 {
     int var = 20;               // Новая переменная в новой ветке
     int u = 100;                // Еще одна переменная
@@ -24,7 +24,7 @@ int new_func()                  // Идея для новой ветки 2 (те
 
 int main(void)
 {
-    int i = func();             // какой-то код
+    int i = function_S1();      // какой-то код. функция способом 1
                                 // new dev in master
     int j = new_func();         // продолжение работы в мастер
     return 0;
